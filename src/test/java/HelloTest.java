@@ -9,6 +9,6 @@ public class HelloTest {
         String results = hello.sayHello("World!");
         assertEquals("HelloWorld!", results);
 
-        System.out.println("我的");
+        System.out.println("我的test");
     }
 }
